@@ -1,0 +1,15 @@
+# Clojure / Leiningen
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+/.lein-*
+/.nrepl-port
+
+# IntelliJ
+/.idea
+postgres-clj.iml
+
+# Database
+/pg
